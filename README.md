@@ -9,6 +9,6 @@ $ python3 Src/main.py
 
 You will find a little game manual into the main menu.
 
-If you really want to play the game with the progression system, edit the main.py file :
+If you want to play the game with the progression system, edit the Src/main.py file :
 Replace line 12 by 
 PROGRESSION = 1
