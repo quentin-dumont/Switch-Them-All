@@ -1,0 +1,19 @@
+########################################################################
+|                                                                      |
+|  LANCEMENT DU JEU (linux) :                                          |
+|                                                                      |                                       
+|                                                                      |
+|  -Ouvrez un terminal et exécutez la commande 'python3 Src/main.py'   |
+|                                                                      |
+|  -Nous vous souhaitons la bienvenue sur le jeu 'Switch Them All !'   |
+|                                                                      |
+|                                                                      |
+########################################################################
+
+
+// NOTE IMPORTANTE : le jeu est en mode 'démonstration', par conséquent tous les niveaux sont débloqués.
+
+Pour tester le sytème de progression : 
+
+- ouvrez le fichier main.py (dans le répertoire Src)
+- mettez la valeur de la variable PROGRESSION (en haut de page) à 1
