@@ -1,6 +1,6 @@
 # Switch Them All!
 
-"Switch Them All!" is a little Puzzle Quest (a Match-3 game with levels and ennemies) I developped in Python/Pygame with two friends on my first year at the university. This is my first development project, please don't be too careful about the code quality ;)
+"Switch Them All!" is a little Puzzle Quest (more precisely a Match-3 game with levels and ennemies) I developped in Python/Pygame with two friends on my first year at the university. This is my first development project, please don't be too careful about the code quality ;)
 
 Requires : Python 3, Pygame
 
