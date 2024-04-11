@@ -15,4 +15,4 @@ PROGRESSION = 1
 
 ![Alt text](Images/demo.png?raw=true "Preview")
 
-Developed by Sélian ARSENE, Marilou PREUX, Matthieu DELILLE and Quentin DUMONT
+Developed by SOlivier COCHARD, Alexis PESTEL and Quentin DUMONT
